@@ -1,0 +1,4 @@
+export const GMV_TARGET = {
+  GMV_THIS_YEAR: 130,
+  OTHER_GMV_THIS_YEAR: 30,
+};
